@@ -1,0 +1,7 @@
+## Task
+
+- [ ]  Watch lecture
+- [ ]  Install Git
+- [ ]  Account github
+- [ ]  Connect git & github
+- [ ]  Repo: process
